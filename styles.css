@@ -114,6 +114,14 @@ input[type="number"]::-webkit-outer-spin-button {
     transition: width 1s ease-in-out;
 }
 
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border: 3px solid #3b82f6; /* primary color */
+}
+
 .custom-checkbox {
     appearance: none;
     -webkit-appearance: none;
