@@ -122,18 +122,6 @@ input[type="number"]::-webkit-outer-spin-button {
   border: 3px solid #3b82f6; /* primary color */
 }
 
-.custom-checkbox {
-    appearance: none;
-    -webkit-appearance: none;
-    width: 20px;
-    height: 20px;
-    border: 2px solid #d1d5db;
-    border-radius: 4px;
-    outline: none;
-    cursor: pointer;
-    position: relative;
-}
-
 .custom-checkbox:checked {
     background-color: #3b82f6;
     border-color: #3b82f6;
